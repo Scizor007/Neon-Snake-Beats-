@@ -1,0 +1,5 @@
+{
+  "name": "Neon Snake & Beats",
+  "description": "A cyberpunk-themed Snake game integrated with a music player and audio visualizer.",
+  "requestFramePermissions": []
+}
